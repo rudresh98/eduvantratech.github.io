@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Allison&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap");
+:root {
+  --text-color: black;
+  --background-color: rgb(250, 116, 0);
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto", sans-serif;
+}
+header {
+  font-family: "PT Sans", sans-serif;
+}
+
+header .nav {
+  background-color: var(--background-color);
+  padding: 8px;
+}
+header .nav span {
+  color: white;
+}
+header .img-fluid {
+  width: 85px;
+  height: 35px;
+}
+header .custom-font-style {
+  font-family: "Allison", cursive;
+  font-weight: 600;
+  font-size: 30px;
+}
+header .navbar-nav .nav-link.active {
+  color: var(--background-color) !important;
+}
