@@ -34,3 +34,16 @@ header .custom-font-style {
 header .navbar-nav .nav-link.active {
   color: var(--background-color) !important;
 }
+.dropdown-menu a.active {
+  background-color: var(--background-color);
+}
+
+/* section css starts here */
+.custom-section-heading {
+  font-size: 35px;
+  font-weight: 500;
+}
+.custom-color-style {
+  color: var(--background-color);
+}
+/* section css ends here */
