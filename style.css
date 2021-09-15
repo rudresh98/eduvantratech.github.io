@@ -20,7 +20,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: 0.8;
+  opacity: 1;
   background-color: var(--background-color);
 }
 .banner .custom-banner .container {
@@ -45,3 +45,8 @@
   margin: 0px 0px 5px 0px;
 }
 /* courses css ends here */
+
+/* form btn */
+.btn-eduvantra {
+  background-color: var(--background-color);
+}

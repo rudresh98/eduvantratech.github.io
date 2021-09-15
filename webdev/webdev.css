@@ -4,3 +4,10 @@
   height: 410px;
 }
 /* web-banner css ends here */
+/* course duration css starts here */
+
+.course-duration .img-fluid {
+  width: 300px;
+  height: 200px;
+}
+/* course duration ends here */
