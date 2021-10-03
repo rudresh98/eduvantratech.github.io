@@ -1,2 +1,0 @@
-# eduvantratech
-EDUVANTRA TECH
